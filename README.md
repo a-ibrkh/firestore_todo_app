@@ -1,6 +1,6 @@
 # todo_app
 
-A new Flutter project.
+Please add your google-services file in order to make the app work
 
 ## Getting Started
 
