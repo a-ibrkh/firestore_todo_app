@@ -57,7 +57,8 @@ class HomeScreen extends StatelessWidget {
                   return const Center(
                       child: Text("Something went wrong, please try again"));
                 } else {
-                  return const CircularProgressIndicator.adaptive();
+                  return Center(
+                      child: const CircularProgressIndicator.adaptive());
                 }
               }),
         ),
